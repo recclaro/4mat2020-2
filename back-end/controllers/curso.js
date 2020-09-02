@@ -12,7 +12,7 @@ Cria um novo objeto dentro da coleção
     Verbos HTTP Associados as operações CRUD
     verbo   Operação
     Post    Create
-    Get     Retrive
+    Get     RetrieSve
     Put     Update
     Delete  Delete
 
